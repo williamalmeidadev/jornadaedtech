@@ -7,6 +7,9 @@ Abaixo, apresento um resumo dos principais conteúdos abordados em nossas aulas 
 
 ---
 
+![Exemplo - Encontro número 12](assets/aula12.jpeg)
+*Figura 1: Visão geral da AULA HARD #12 sobre Branches e Merge no Git.*
+
 ## 💻 Módulo I: Redes, Internet e Protocolos (Prof. Kenji Taniguchi)
 
 Este módulo estabeleceu a fundação sobre como a internet e as redes de computadores funcionam, desde os conceitos mais básicos de comunicação até a arquitetura global.
